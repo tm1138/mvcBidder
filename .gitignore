@@ -1,0 +1,75 @@
+syntax: glob
+
+# binaries
+*.exe
+*.dll
+*.zip
+
+# build output
+.vs
+[Bb]in
+[Oo]bj
+[Bb]uild
+[Dd]ebug
+[Rr]elease
+flex_bin
+*.nupkg
+*.dacpac
+*.pdb
+*.obj
+
+# nuget/node downloaded packages
+packages
+node_modules
+
+# patch-related files
+*.rej
+*.orig
+
+# backups and temp files
+*.bak
+*~
+#*#
+.#*
+.*.swp
+
+# os junk
+.DS_Store
+[Tt]humbs.db
+
+# VS user-specific files
+*.user
+*.suo
+*.scc
+*.ccscc
+*.vspscc
+*.vssscc
+*.[Pp]ublish.xml
+_ReSharper*
+
+# VS temp/generated/cache files
+*.ncb
+*.[Cc]ache
+StyleCop.Cache
+Packages.dgml
+PrecompiledWeb
+ClientBin
+Generated_Code
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*.build.csdef
+
+# other transient stuff
+*.log
+
+# other platforms stuff (for completeness)
+*.o
+*.lo
+*.la
+*.al
+.libs
+*.so
+*.so.[0-9]*
+*.a
+*.pyc
+*.pyo

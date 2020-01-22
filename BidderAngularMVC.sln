@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidderAngularMVC", "BidderAngularMVC\BidderAngularMVC.csproj", "{39CB05D1-9619-4D66-8B02-97324E493082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CB05D1-9619-4D66-8B02-97324E493082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CB05D1-9619-4D66-8B02-97324E493082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CB05D1-9619-4D66-8B02-97324E493082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CB05D1-9619-4D66-8B02-97324E493082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE785234-A9F9-4A81-A72C-D2B2C7FDB28B}
+	EndGlobalSection
+EndGlobal
